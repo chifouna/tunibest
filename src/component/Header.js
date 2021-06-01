@@ -7,7 +7,7 @@ const Head = (props) => {
         <div className='Header'>
             <div className='imageHeader'>
                 <img style={{ marginTop: '0px' }} width='64px' height='65px' src='./images.png' alt='logo' />
-                <p><b>Movie Store</b></p>
+                <p><b><span>TUNI</span>best</b></p>
             </div>
             <div className='nav-search'>
                 <Form>
